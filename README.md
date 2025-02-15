@@ -38,13 +38,6 @@ print(result)
 - **Fusion Module**: Merges both modalities for context-aware generation
 - **Decoder**: Generates output based on the fused representation
 
-## Dataset
-The model is trained on a combination of publicly available multimodal datasets, ensuring diverse and high-quality training data.
 
-## Roadmap
-- [ ] Improve text-image alignment
-- [ ] Optimize model inference speed
-- [ ] Expand dataset coverage
-- [ ] Deploy as an API service
 
 
